@@ -39,7 +39,7 @@ section{
 }
 
 .heading span{
-    color:#aee7f3;
+    color:#0cc0df;
     text-transform: uppercase;
 }
 
@@ -47,7 +47,7 @@ section{
     display: inline-block;
     margin-top: 1rem;
     padding:.8rem 3rem;
-    background:#aee7f3;
+    background:#0cc0df;
     color:#fff;
     cursor: pointer;
     font-size: 1.7rem;
@@ -81,7 +81,7 @@ header .logo{
 
 header .logo span{
     text-transform: uppercase;
-    color:#cd853f;
+    color:#0cc0df;
 }
 
 header .navbar a{
@@ -93,7 +93,7 @@ header .navbar a{
 
 header .navbar a:hover{
     letter-spacing: .2rem;
-    color:#aee7f3;
+    color:#0cc0df;
 }
 
 header .follow a{
@@ -103,14 +103,14 @@ header .follow a{
 }
 
 header .follow a:hover{
-    color:#cd853f;
+    color:#0cc0df;
 }
 
 #menu-bars{
     position: fixed;
     top:1rem; right: 1rem;
     z-index: 10000;
-    background:#cd853f;
+    background:#0cc0df;
     color:#fff;
     border-radius: .5rem;
     padding:1rem 1.5rem;
@@ -123,7 +123,7 @@ header .follow a:hover{
     position: absolute;
     top:0; left:0;
     height:1rem; width:1rem;
-    background: #cd853f;
+    background: #0cc0df;
     pointer-events: none;
     transform: translate(-50%, -50%);
     border-radius: 50%;
@@ -140,7 +140,7 @@ header .follow a:hover{
     position: absolute;
     top:0; left:0;
     height:4rem; width:4rem;
-    border:.1rem solid #cd853f;
+    border:.1rem solid #0cc0df;
     pointer-events: none;
     transform: translate(-50%, -50%);
     border-radius: 50%;
@@ -173,7 +173,7 @@ header .follow a:hover{
 
 .home .content .hi{
     font-size: 2rem;
-    color:#cd853f;
+    color:#0cc0df;
 }
 
 .home .content h3{
@@ -183,7 +183,7 @@ header .follow a:hover{
 }
 
 .home .content h3 span{
-    color:#cd853f;
+    color:#0cc0df;
     text-transform: uppercase;
 }
 
@@ -249,7 +249,7 @@ header .follow a:hover{
 
 
 .about .row-1 .content .box-container .box span{
-    color:#cd853f;
+    color:#0cc0df;
 }
 
 .about .row-2{
@@ -288,7 +288,7 @@ header .follow a:hover{
 .about .row-2 .skills .progress .bar span{
     display:block;
     height:100%;
-    background:#cd853f;
+    background:#0cc0df;
     border-radius: 50rem;
 }
 
@@ -340,7 +340,7 @@ header .follow a:hover{
 }
 
 .about .row-2 .box-container .box h3{
-    color:#cd853f;
+    color:#0cc0df;
     font-size: 3rem;
 }
 
@@ -390,7 +390,7 @@ header .follow a:hover{
 .about .row-3 .tools .progress .bar span{
     display:block;
     height:100%;
-    background:#cd853f;
+    background:#0cc0df;
     border-radius: 50rem;
 }
 
@@ -431,7 +431,7 @@ header .follow a:hover{
 .experience .box-container .box{
     position: relative;
     flex:1 1 33rem;
-    border-left: .2rem solid #cd853f;
+    border-left: .2rem solid #0cc0df;
     padding-left: 2rem;
     padding-right: 2rem;
     padding-bottom: 2rem;    
@@ -444,7 +444,7 @@ header .follow a:hover{
     height:2rem;
     width:2rem;
     border-radius: 50%;
-    background:#cd853f;
+    background:#0cc0df;
 }
 
 .experience .box-container .box .content{
@@ -457,7 +457,7 @@ header .follow a:hover{
 .experience .box-container .box .content span{
     color:#fff;
     font-size: 1.7rem;
-    background:#cd853f;
+    background:#0cc0df;
     border-radius: 50rem;
     padding:.4rem 1rem;
 }
@@ -484,7 +484,7 @@ header .follow a:hover{
 }
 
 .experience .box-container .box .content a{
-    color:#cd853f;
+    color:#0cc0df;
     font-weight: 500;
 }
 
@@ -512,12 +512,12 @@ header .follow a:hover{
 }
 
 .my-portfolio ul li.active{
-    background: #cd853f;
+    background: #0cc0df;
     color: #fff;
 }
 
 .my-portfolio ul li:hover{
-    background: #cd853f;
+    background: #0cc0df;
     color: #fff;
 }
 
@@ -582,7 +582,7 @@ header .follow a:hover{
 }
 
 .my-portfolio .product .itemBox .icons a:hover{
-    background:#cd853f;
+    background:#0cc0df;
     color:#fff;
 }
 
@@ -616,7 +616,7 @@ header .follow a:hover{
     width:5rem;
     line-height: 5rem;
     font-size: 2rem;
-    background: #cd853f;
+    background: #0cc0df;
     color:#fff;
     border-radius: 50%;
 }
@@ -668,7 +668,7 @@ header .follow a:hover{
 
 .contact .row form .box:focus,
 .contact .row form textarea:focus{
-    border-color: #cd853f;
+    border-color: #0cc0df;
 }
 
 .contact .row form .box::placeholder,
@@ -696,7 +696,7 @@ header .follow a:hover{
 }
 
 .footer span{
-    color:#cd853f;
+    color:#0cc0df;
 }
 
 /* media queries  */
